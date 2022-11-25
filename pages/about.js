@@ -52,7 +52,7 @@ export default function About(props) {
         )}
         <div className={styles.subcontainer}>
           <h2 className={props.theme ? styles.subheader_light : styles.subheader}>
-            What is SSN Coding Club?
+            What is The CodeBreakers Club?
           </h2>
           <p className={props.theme ? styles.para_light : styles.para}>
             We are a community of coders specialised in domains like Competitive Coding, Machine
