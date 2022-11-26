@@ -42,8 +42,8 @@ function NavBar(props) {
           <Nav.Item
             className={props.transfer ? styles.logotext_light : styles.logotext}
           >
-            <img width="50" src="./favicon.ico" alt="logo"></img>
-            <h4> SSNCC </h4>
+            <img width="50" src="./code-breakers-logo.ico" alt="logo"></img>
+            <h4 style={{}}>Tcb</h4>
           </Nav.Item>
         </Navbar.Brand>
         <Navbar>
@@ -73,10 +73,7 @@ function NavBar(props) {
               }}
               passHref
             >
-              <Nav.Item className={styles.nav_item}>Meets</Nav.Item>
-            </Link>
-            <Link href="/projects" passHref>
-              <Nav.Item className={styles.nav_item}>Projects</Nav.Item>
+              <Nav.Item className={styles.nav_item}>Achievements</Nav.Item>
             </Link>
             <Link
               href="/blog"
@@ -85,7 +82,7 @@ function NavBar(props) {
               }}
               passHref
             >
-              <Nav.Item className={styles.nav_item}>Blog</Nav.Item>
+              <Nav.Item className={styles.nav_item}>Results</Nav.Item>
             </Link>
 
             <Nav.Item

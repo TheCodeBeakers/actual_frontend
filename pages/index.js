@@ -25,7 +25,7 @@ export default function Home(props) {
     <div className={styles.parallax}>
       <div className={props.theme ? styles.container_light : styles.container}>
         <Head>
-          <title>SSN Coding Club</title>
+          <title>The Code Breakers</title>
           <meta name="description" content="Official SSN Coding Club Website" />
           <link rel="icon" href="/favicon.ico" />
           <link

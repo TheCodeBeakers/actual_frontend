@@ -41,7 +41,6 @@ const Footer = (props) => {
                         <FaDiscord className={props.theme ? styles.social_icon_light : styles.social_icon} />
                     </a>
                 </div>
-                <p style={{ color: 'grey', position: 'absolute', bottom: '0', textAlign: 'center' }}>We use Google Analytics to monitor site analytics</p>
 
             </div>
         </footer>
