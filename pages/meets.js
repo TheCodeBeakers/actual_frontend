@@ -80,7 +80,7 @@ export default function Meets(props) {
       <div className={props.theme ? styles.container_light : styles.container}>
         <Head>
           <title>The Codebreakers</title>
-          <meta name="description" content="Official Codebreakers Club Website" />
+          <meta name="description" content="CodeBreakers RCOEM" />
           <link rel="icon" href="/code-breakers-logo.ico" />
           {/* for fontawesome */}
           <link
