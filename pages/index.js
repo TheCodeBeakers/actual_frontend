@@ -26,7 +26,7 @@ export default function Home(props) {
       <div className={props.theme ? styles.container_light : styles.container}>
         <Head>
           <title>The Code Breakers</title>
-          <meta name="description" content="Official SSN Coding Club Website" />
+          <meta name="description" content="Codebreakers RCOEM" />
           <link rel="icon" href="/code-breakers-logo.ico" />
           <link
             rel="stylesheet"

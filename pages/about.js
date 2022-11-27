@@ -28,8 +28,8 @@ export default function About(props) {
     <div className={styles.container}>
       <Head>
         <title>The Codebreakers Club</title>
-        <meta name="description" content="Official SSN Coding Club Website" />
-        <link rel="icon" href="/favicon.ico" />
+        <meta name="description" content="Codebreakers RCOEM" />
+        <link rel="icon" href="/code-breakers-logo.ico" />
 
         <link
           rel="stylesheet"
