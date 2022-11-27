@@ -52,12 +52,21 @@ export default function About(props) {
         )}
         <div className={styles.subcontainer}>
           <h2 className={props.theme ? styles.subheader_light : styles.subheader}>
-            What is The CodeBreakers Club?
+            What is The CodeBreakers Club ?
           </h2>
           <p className={props.theme ? styles.para_light : styles.para}>
-            We are a community of coders specialised in domains like Competitive Coding, Machine
-            Learning, Web and App Development etc. We aim to support and nurture future developers
-            and ensure equity in coding!
+          The CodeBreakers Club is a club of Shri Ramdeobaba
+            College Of Engineering And Management, Nagpur,
+            Maharashtra-440013. The CodeBreakers Club comes
+            under the Technical Club and has a speciality of
+            Programming languages, Competitive coding, Web
+            Developemnt, IOT, AIML, Open Source Intelligence and
+            many more. The club is a SRC (Student's Representative
+            Counsil) which is a student body ran by the cuurent
+            students studying in the college. The club organises many
+            events for the college and represents RCOEM in different
+            events held over All over India.
+
           </p>
         </div>
         <div>
@@ -81,21 +90,6 @@ export default function About(props) {
           })}
         </div>
 
-        {/*  Alumni Section */}
-        <h2 className={props.theme ? styles.subheader_light : styles.subheader} style={{ "fontSize": "30px" }}>
-          Ex-Office Bearers
-        </h2>
-        <OffBearSec year="2018-22" theme={props.theme} file={exofficebearers_18_22} />
-        {/* */}
-
-        <div className={styles.faq}>
-          <h2 className={props.theme ? styles.subheader_light : styles.subheader}>
-            Frequently Asked Questions
-          </h2>
-          <Container className={styles.faqContainer}>
-            <Faq theme={props.theme} />
-          </Container>
-        </div>
       </main>
       <div className={styles.placeholder}>
         <Footer theme={props.theme} about={true} />

@@ -8,7 +8,7 @@ const ProfileCard = ({
   alt = "",
   profilePic = "",
   socials = {
-    discord: "",
+  
     linkedin: "",
     instagram: ""
   },
@@ -36,17 +36,7 @@ const ProfileCard = ({
           </header>
           <div className={styles.social_media}>
 
-            {
-              socials.discord
-                ?
-                <a
-                  href={socials.discord}
-                  target="_blank"
-                  rel="noreferrer"
-                  className={`fab fa-discord ${theme ? styles.social_icon_light : styles.social_icon}`}
-                ></a>
-                : null
-            }
+           
             {
               socials.linkedin
                 ?
