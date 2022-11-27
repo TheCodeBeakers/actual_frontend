@@ -27,7 +27,7 @@ export default function About(props) {
   return (
     <div className={styles.container}>
       <Head>
-        <title>SSN Coding Club</title>
+        <title>The Codebreakers Club</title>
         <meta name="description" content="Official SSN Coding Club Website" />
         <link rel="icon" href="/favicon.ico" />
 
