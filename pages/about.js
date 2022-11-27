@@ -52,7 +52,7 @@ export default function About(props) {
         )}
         <div className={styles.subcontainer}>
           <h2 className={props.theme ? styles.subheader_light : styles.subheader}>
-            What is The CodeBreakers Club?
+            What is The CodeBreakers Club ?
           </h2>
           <p className={props.theme ? styles.para_light : styles.para}>
           The CodeBreakers Club is a club of Shri Ramdeobaba
@@ -90,21 +90,6 @@ export default function About(props) {
           })}
         </div>
 
-        {/*  Alumni Section */}
-        {/* <h2 className={props.theme ? styles.subheader_light : styles.subheader} style={{ "fontSize": "30px" }}>
-          Ex-Office Bearers
-        </h2>
-        <OffBearSec year="2018-22" theme={props.theme} file={exofficebearers_18_22} /> */}
-        {/* */}
-
-        <div className={styles.faq}>
-          <h2 className={props.theme ? styles.subheader_light : styles.subheader}>
-            Frequently Asked Questions
-          </h2>
-          <Container className={styles.faqContainer}>
-            <Faq theme={props.theme} />
-          </Container>
-        </div>
       </main>
       <div className={styles.placeholder}>
         <Footer theme={props.theme} about={true} />

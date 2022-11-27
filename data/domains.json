@@ -7,25 +7,15 @@
     },
     "members": [
       {
-        "name": "Dr.Chitra Babu",
+        "name": "Ashish Chandak",
         "position": "Club Incharge",
-        "alt": "chitra mam",
-        "profilePic": "/profiles/Faculty/Chitra.png",
+        "alt": "Ashish",
+        "profilePic": "/profiles/Faculty/Ashish Chandak.jpeg",
         "socials": {
-          "linkedin": "https://www.linkedin.com/in/chitra-babu-320b2a8/"
-        }
-      },
-      {
-        "name": "Dr. Balasubramanian",
-        "position": "Club Incharge",
-        "alt": "bala sir",
-        "profilePic": "/profiles/Faculty/balasubu.jpg",
-        "socials": {
-          
-          "linkedin": "https://www.linkedin.com/in/balasubramanian-viswanathan-5a617016/"
-    
+          "linkedin": "https://www.linkedin.com/in/"
         }
       }
+     
       
     ]
   },
@@ -114,28 +104,6 @@
     },
     "members": [
       {
-        "name": "Kartik Gamot",
-        "position": "Member",
-        "alt": "Kartik",
-        "profilePic": "/profiles/Dev/kartik.jpg",
-        "socials": {
-    
-          "linkedin": "https://www.linkedin.com/in/kartik-gamot-a6b27b207",
-          "instagram": "https://www.instagram.com/kartik_89123/"
-        }
-      },
-      {
-        "name": "Utkarsh Sathawane",
-        "position": "Member",
-        "alt": "Utkarsh",
-        "profilePic": "/profiles/Dev/Utkarsh_Sathawane.jpg",
-        "socials": {
-        
-          "linkedin": "https://www.linkedin.com/in/utkarsh-sathawane-852060207",
-          "instagram": "https://www.instagram.com/utkarsh_sathawane/"
-        }
-      },
-      {
         "name": "Anjali kushwaha",
         "position": "Member",
         "alt": "Anjali",
@@ -147,10 +115,33 @@
         }
       },
       {
+        "name": "Mrugal Dudhbade",
+        "position": "Member",
+        "alt": "Mrughal",
+        "profilePic": "/profiles/Dev/Mrugal .jpg",
+        "socials": {
+        
+          "linkedin": "https://www.linkedin.com/in/mrugal-dudhbade-758818204/",
+          "instagram": "https://www.instagram.com//"
+        }
+      },
+      {
+        "name": "Kartik Gamot",
+        "position": "Member",
+        "alt": "Kartik",
+        "profilePic": "/profiles/Dev/kartik.jpg",
+        "socials": {
+    
+          "linkedin": "https://www.linkedin.com/in/kartik-gamot-a6b27b207",
+          "instagram": "https://www.instagram.com/kartik_89123/"
+        }
+      },
+     
+      {
         "name": "Vinit Kumbhare",
         "position": "Member",
         "alt": "Vinit",
-        "profilePic": "/profiles/Dev/kartik.jpg",
+        "profilePic": "/profiles/Dev/Vinit.jpg",
         "socials": {
          
           "linkedin": "https://www.linkedin.com/in/vinit-kumbhare-5528a221a",
@@ -178,18 +169,8 @@
           "linkedin": "https://www.linkedin.com/in/samruddhi-tatiwar-b79755232",
           "instagram": "https://www.instagram.com/samruddhitatiwar/"
         }
-      },
-      {
-        "name": "Himesh Ganwani",
-        "position": "Member",
-        "alt": "Himesh",
-        "profilePic": "/profiles/Dev/Himesh_Ganwani.jpg",
-        "socials": {
-         
-          "linkedin": "https://www.linkedin.com/in/himesh-ganwani-047015218",
-          "instagram": "https://www.instagram.com/kail.himesh_1506/"
-        }
       }
+      
       
     ]
   },
@@ -217,7 +198,7 @@
         "name": "Siddhant Jain",
         "position": "Member",
         "alt": "Siddhant",
-        "profilePic": "/profiles/CP/Bhushan_Wanjari.jpg",
+        "profilePic": "/profiles/CP/sid.jpeg",
         "socials": {
          
           "linkedin": "https://www.linkedin.com/in/siddhantjain11",
@@ -225,7 +206,7 @@
         }
       },
       {
-        "name": "Srushti Dhakate ",
+        "name": "Srushti Dhakate",
         "position": "Member",
         "alt": "Shrushti",
         "profilePic": "/profiles/CP/Srushti_Dhakate.jpeg",
@@ -235,15 +216,17 @@
           "instagram": "https://www.instagram.com/srushti._.2210/"
         }
       },
+      
+      
       {
-        "name": "Mrugal Dudhbade",
+        "name": "Utkarsh Sathawane",
         "position": "Member",
-        "alt": "Mrughal",
-        "profilePic": "/profiles/CP/Mrugal .jpg",
+        "alt": "Utkarsh",
+        "profilePic": "/profiles/CP/Utkarsh_Sathawane.jpg",
         "socials": {
         
-          "linkedin": "https://www.linkedin.com/in/mrugal-dudhbade-758818204/",
-          "instagram": "https://www.instagram.com//"
+          "linkedin": "https://www.linkedin.com/in/utkarsh-sathawane-852060207",
+          "instagram": "https://www.instagram.com/utkarsh_sathawane/"
         }
       },
       {
@@ -339,7 +322,7 @@
         "name": "Khushi Shroff",
         "position": "Member",
         "alt": "Khushi",
-        "profilePic": "/profiles/DSM/Riya.jpg",
+        "profilePic": "/profiles/DSM/Khushi.jpg",
         "socials": {
          
           "linkedin": "https://www.linkedin.com/in/khushi-shroff-70b049211",
@@ -358,7 +341,7 @@
         }
       },
       {
-        "name": "Harshada Dhakate ",
+        "name": "Harshada Dhakate",
         "position": "Member",
         "alt": "Harshada",
         "profilePic": "/profiles/DSM/Harshada .jpg",
