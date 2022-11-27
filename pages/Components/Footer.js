@@ -16,32 +16,31 @@ const Footer = (props) => {
                     <h2>Try! Catch! Show!</h2>
                 </div>
                 <div className={styles.social_media}>
-                    <a href="https://in.linkedin.com/company/ssn-coding-club" className={styles.linkedin} target="_blank">
+                    <a href="https://www.linkedin.com/company/thecodebreakers-rcoem/" className={styles.linkedin} target="_blank">
 
                         <FaLinkedin className={props.theme ? styles.social_icon_light : styles.social_icon} />
 
                     </a>
-                    <a href="https://github.com/ssncodingclub" className={styles.github} target="_blank">
+                    {/* <a href="https://github.com/ssncodingclub" className={styles.github} target="_blank">
                         <FaGithub className={props.theme ? styles.social_icon_light : styles.social_icon} />
-                    </a>
+                    </a> */}
                     {props.about ?
                         <a
-                            href="https://www.instagram.com/ssn_coding_club/"
+                            href="https://instagram.com/thecodebreakers?igshid=YmMyMTA2M2Y="
                             target="_blank"
                             rel="noreferrer"
                             className={`fab fa-instagram ${props.theme ? styles.insta + " " + styles.insta_light : styles.social_icon + " " + styles.insta}`}
                         ></a> :
                         <a
-                            href="https://www.instagram.com/ssn_coding_club/"
+                            href="https://instagram.com/thecodebreakers?igshid=YmMyMTA2M2Y="
                             target="_blank"
                             rel="noreferrer"
                             className={`fa fa-instagram ${props.theme ? styles.insta + " " + styles.insta_light : styles.social_icon + " " + styles.insta}`}
                         ></a>}
-                    <a href="https://discord.com/invite/hSGEaRUnws" className={styles.discord} target="_blank">
+                    {/* <a href="https://discord.com/invite/hSGEaRUnws" className={styles.discord} target="_blank">
                         <FaDiscord className={props.theme ? styles.social_icon_light : styles.social_icon} />
-                    </a>
+                    </a> */}
                 </div>
-                <p style={{ color: 'grey', position: 'absolute', bottom: '0', textAlign: 'center' }}>We use Google Analytics to monitor site analytics</p>
 
             </div>
         </footer>
