@@ -207,6 +207,11 @@
   margin-top: 10px;
 }
 
+.meetTag {
+  color: #0c97e2;
+  font-weight: 500;
+}
+
 .meetDesc {
   margin-bottom: 7.5px;
   font-size: 11.5px;
