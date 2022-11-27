@@ -80,8 +80,8 @@ export default function Meets(props) {
       <div className={props.theme ? styles.container_light : styles.container}>
         <Head>
           <title>The Codebreakers</title>
-          <meta name="description" content="Official SSN Coding Club Website" />
-          <link rel="icon" href="/favicon.ico" />
+          <meta name="description" content="Official Codebreakers Club Website" />
+          <link rel="icon" href="/code-breakers-logo.ico" />
           {/* for fontawesome */}
           <link
             rel="stylesheet"
@@ -91,7 +91,7 @@ export default function Meets(props) {
         <Navbar transfer={props.theme} setTheme={props.setTheme} />
         {isAppleDevice ? (
           <div className={styles.appleHeader}>
-            <h1>Our Achievemnts</h1>
+            <h2>Our Achievemnts</h2>
           </div>
         ) : (
           <div className={props.theme ? styles.header_light : styles.header}>
