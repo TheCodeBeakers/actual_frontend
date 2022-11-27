@@ -142,18 +142,7 @@ function NavBar(props) {
                     }}
                     passHref
                   >
-                    <Nav.Item style={{ cursor: "pointer" }}>Meets</Nav.Item>
-                  </Link>
-                </li>
-                <li>
-                  <Link
-                    href="/projects"
-                    onClick={() => {
-                      setExpanded(false);
-                    }}
-                    passHref
-                  >
-                    <Nav.Item style={{ cursor: "pointer" }}>Projects</Nav.Item>
+                    <Nav.Item style={{ cursor: "pointer" }}>Achievements</Nav.Item>
                   </Link>
                 </li>
                 <li>
@@ -164,7 +153,7 @@ function NavBar(props) {
                     }}
                     passHref
                   >
-                    <Nav.Item style={{ cursor: "pointer" }}>Blog</Nav.Item>
+                    <Nav.Item style={{ cursor: "pointer" }}>Results</Nav.Item>
                   </Link>
                 </li>
               </ul>

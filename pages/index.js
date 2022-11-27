@@ -110,8 +110,11 @@ export default function Home(props) {
           >
             {isAppleDevice ? (
               <>
-                <img src="./HomePage/TC_1.svg" alt="Title-part-1" />
-                <img src="./HomePage/TC_2.svg" alt="Title-part-2" />{" "}
+                {/* <img src="./HomePage/TC_1.svg" alt="Title-part-1" />
+                <img src="./HomePage/TC_2.svg" alt="Title-part-2" />{" "} */}
+                  <div className={styles.thrivingCommunityHeader}>
+                <div className={styles.thrivingCommunityHeader2}>OUR TEAM</div>
+              </div>
               </>
             ) : (
               <div className={styles.thrivingCommunityHeader}>
