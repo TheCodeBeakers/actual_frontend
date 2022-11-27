@@ -29,7 +29,7 @@ export default function About(props) {
       <Head>
         <title>The Codebreakers Club</title>
         <meta name="description" content="Codebreakers RCOEM" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/code-breakers-logo.ico" />
 
         <link
           rel="stylesheet"
