@@ -92,6 +92,28 @@
           "linkedin": "https://www.linkedin.com/in/aditya-bopche-53ab92204/",
           "instagram": "https://www.instagram.com/aditya.bopche/"
         }
+      },
+      {
+        "name": "Muskan Setiya",
+        "position": "Content ",
+        "alt": "Muskan",
+        "profilePic": "/profiles/DSM/Muskann.jpeg",
+        "socials": {
+          
+          "linkedin": "https://www.linkedin.com/in/muskan-setiya",
+          "instagram": "https://www.instagram.com/muskan__setiya"
+        }
+      },
+      {
+        "name": "Shradha Mahajan",
+        "position": "Public Relations and Marketing",
+        "alt": "Shradha",
+        "profilePic": "/profiles/DSM/Shradha Mahajan.jpeg",
+        "socials": {
+       
+          "linkedin": "https://www.linkedin.com/in/shradha-mahajan-02048a222",
+          "instagram": "https://www.instagram.com/shradha_mahajan26/"
+        }
       }
     ]
   },
@@ -284,28 +306,7 @@
           "instagram": "https://www.instagram.com/prachiti_akre/"
         }
       },
-      {
-        "name": "Muskan Setiya",
-        "position": "Content ",
-        "alt": "Muskan",
-        "profilePic": "/profiles/DSM/Muskann.jpeg",
-        "socials": {
-          
-          "linkedin": "https://www.linkedin.com/in/muskan-setiya",
-          "instagram": "https://www.instagram.com/muskan__setiya"
-        }
-      },
-      {
-        "name": "Shradha Mahajan",
-        "position": "Public Relations and Marketing",
-        "alt": "Shradha",
-        "profilePic": "/profiles/DSM/Shradha Mahajan.jpeg",
-        "socials": {
-       
-          "linkedin": "https://www.linkedin.com/in/shradha-mahajan-02048a222",
-          "instagram": "https://www.instagram.com/shradha_mahajan26/"
-        }
-      },
+      
       {
         "name": "Sudhanshu Pandey",
         "position": "Member",
