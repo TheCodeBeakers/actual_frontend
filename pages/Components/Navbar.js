@@ -67,7 +67,7 @@ function NavBar(props) {
               <Nav.Item className={styles.nav_item}>About</Nav.Item>
             </Link>
             <Link
-              href="/meets"
+              href="/achievements"
               onClick={() => {
                 setExpanded(false);
               }}
@@ -76,7 +76,7 @@ function NavBar(props) {
               <Nav.Item className={styles.nav_item}>Achievements</Nav.Item>
             </Link>
             <Link
-              href="/blog"
+              href="/result"
               onClick={() => {
                 setExpanded(false);
               }}

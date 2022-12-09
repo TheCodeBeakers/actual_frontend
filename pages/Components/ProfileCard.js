@@ -4,6 +4,7 @@ import Image from 'next/image';
 
 const ProfileCard = ({
   name = "",
+  section="",
   position = "",
   alt = "",
   profilePic = "",
@@ -32,6 +33,7 @@ const ProfileCard = ({
                 })
               }
             </h2>
+            <div className={styles.profile_subtitle}>{section}</div>
             <div className={styles.profile_subtitle}>{position}</div>
           </header>
           <div className={styles.social_media}>
