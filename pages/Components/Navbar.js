@@ -136,7 +136,7 @@ function NavBar(props) {
                 </li>
                 <li>
                   <Link
-                    href="/meets"
+                    href="/achievements"
                     onClick={() => {
                       setExpanded(false);
                     }}
@@ -147,7 +147,7 @@ function NavBar(props) {
                 </li>
                 <li>
                   <Link
-                    href="/blog"
+                    href="/result"
                     onClick={() => {
                       setExpanded(false);
                     }}
