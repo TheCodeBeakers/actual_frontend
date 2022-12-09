@@ -24,11 +24,12 @@ const Domain = ({ domain = {
           theme={theme}
         />
         {
-          domain.members.map(({ name, position, alt, profilePic, socials }, i) => {
+          domain.members.map(({ name, position, alt, profilePic, socials,Section }, i) => {
             return (
               <>
                 <ProfileCard
                   name={name}
+                  section={Section}
                   position={position}
                   alt={alt}
                   profilePic={profilePic}
