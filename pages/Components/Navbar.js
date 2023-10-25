@@ -43,7 +43,7 @@ function NavBar(props) {
             className={props.transfer ? styles.logotext_light : styles.logotext}
           >
             <img width="50" src="./code-breakers-logo.ico" alt="logo"></img>
-            <h4 style={{}}>Tcb</h4>
+            <h4 style={{}}>TCB</h4>
           </Nav.Item>
         </Navbar.Brand>
         <Navbar>
@@ -75,7 +75,7 @@ function NavBar(props) {
             >
               <Nav.Item className={styles.nav_item}>Achievements</Nav.Item>
             </Link>
-            <Link
+            {/* <Link
               href="/result"
               onClick={() => {
                 setExpanded(false);
@@ -83,7 +83,7 @@ function NavBar(props) {
               passHref
             >
               <Nav.Item className={styles.nav_item}>Results</Nav.Item>
-            </Link>
+            </Link> */}
 
             <Nav.Item
               className={styles.nav_toggle_icons}
@@ -146,7 +146,7 @@ function NavBar(props) {
                   </Link>
                 </li>
                 <li>
-                  <Link
+                  {/* <Link
                     href="/result"
                     onClick={() => {
                       setExpanded(false);
@@ -154,7 +154,7 @@ function NavBar(props) {
                     passHref
                   >
                     <Nav.Item style={{ cursor: "pointer" }}>Results</Nav.Item>
-                  </Link>
+                  </Link> */}
                 </li>
               </ul>
             </div>
