@@ -337,17 +337,7 @@
       "background": "linear-gradient(90deg, #2a2a72, #2d3986, #2f499a, #2e5aae, #2c6ac2, #267bd6, #1b8de9, #009ffd)"
     },
     "members": [
-      {
-        "name": "Anish Wairagade",
-        "position": "Member",
-        "alt": "Anish",
-        "profilePic": "/profiles/CP/Anish.jpg",
-        "socials": {
-         
-          "linkedin": "https://www.linkedin.com/in/anish-wairagade-55a853258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-          "instagram": "https://instagram.com/anish_01610?igshid=NzZlODBkYWE4Ng=="
-        }
-      },
+    
       {
         "name": "Anup Dhoble",
         "position": "Member",
@@ -428,9 +418,9 @@
     ]
   },
   {
-    "title": "Design,\n Publicity and\nSocial Media\nTeam",
-    "discord": "@Design/Social Team",
-    "tags": ["socials", "marketing"],
+    "title": "Graphics,\n Publicity and\nSocial Media\nTeam",
+    "discord": "@Graphics/Publicity/Social \nTeam",
+    "tags": ["Graphics","socials", "publicity"],
     "bgColorStyle": {
       "background": "linear-gradient(90deg, #2a2a72, #2d3986, #2f499a, #2e5aae, #2c6ac2, #267bd6, #1b8de9, #009ffd)"
     },
