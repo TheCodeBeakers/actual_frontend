@@ -91,7 +91,7 @@ export default function Meets(props) {
         <Navbar transfer={props.theme} setTheme={props.setTheme} />
         {isAppleDevice ? (
           <div className={styles.appleHeader}>
-            <h2>Our Achievemnts</h2>
+            <h2>Our Achievements</h2>
           </div>
         ) : (
           <div className={props.theme ? styles.header_light : styles.header}>
