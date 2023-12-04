@@ -4,7 +4,7 @@
 .blog_main_container {
   position: relative;
   background-color: #070707;
-  padding-bottom: 90vh;
+/*   padding-bottom: 90vh; */
   /* max-width: 1500px; */
   margin: 0 auto;
   z-index: 10;
