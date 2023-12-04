@@ -75,7 +75,7 @@ function NavBar(props) {
             >
               <Nav.Item className={styles.nav_item}>Achievements</Nav.Item>
             </Link>
-            {/* <Link
+            <Link
               href="/result"
               onClick={() => {
                 setExpanded(false);
@@ -83,7 +83,7 @@ function NavBar(props) {
               passHref
             >
               <Nav.Item className={styles.nav_item}>Results</Nav.Item>
-            </Link> */}
+            </Link>
 
             <Nav.Item
               className={styles.nav_toggle_icons}
