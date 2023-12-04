@@ -1,291 +1,230 @@
 [
     {
-      "title": " Selected\n Members",
-      "tags": [],
-      "bgColorStyle": {
-        "background": "linear-gradient(135deg, #1f005c, #35005e, #5f0060, #8f0860, #bc365d, #dd635c, #f28c5f, #fcaa67, #ffb56b)"
-      },
-      "members": [
-        {
-          "name": "Vidhi Rathi",
-          "Section": "",
-          "alt": "results",
-          "profilePic": "/code-breakers-logo.jpeg"
-     },
-{
-          "name": "kunal dewangan",
-          "Section": "",
-          "alt": "results",
-          "profilePic": "/code-breakers-logo.jpeg"
-    },
-{
-          "name": "Ayan Sheikh",
-          "Section": "",
-          "alt": "results",
-          "profilePic": "/code-breakers-logo.jpeg"
+        "title": " Selected\n Members",
+        "tags": [],
+        "bgColorStyle": {
+            "background": "linear-gradient(135deg, #1f005c, #35005e, #5f0060, #8f0860, #bc365d, #dd635c, #f28c5f, #fcaa67, #ffb56b)"
         },
-{
-          "name": "Ikshit Talreja",
-          "Section": "",
-          "alt": "results",
-          "profilePic": "/code-breakers-logo.jpeg"
-  },
-  {
-    "name": "Archana Dubey",
-    "Section": "",
-    "alt": "results",
-    "profilePic": "/code-breakers-logo.jpeg"
-},
-{
-    "name": "Ayush Bhojwani",
-    "Section": "",
-    "alt": "results",
-    "profilePic": "/code-breakers-logo.jpeg"
-},
-{
-    "name": "Aruja Singh",
-    "Section": "",
-    "alt": "results",
-    "profilePic": "/code-breakers-logo.jpeg"
-},
-{
-    "name": "Mushaan Khan",
-    "Section": "",
-    "alt": "results",
-    "profilePic": "/code-breakers-logo.jpeg"
-},
-
-{
-    "name": "Tushar Pamnani",
-    "Section": "",
-    "alt": "results",
-    "profilePic": "/code-breakers-logo.jpeg"
-},
-{
-  "name": "Aalok Choudhari",
-  "Section": "",
-  "alt": "results",
-  "profilePic": "/code-breakers-logo.jpeg"
-}
-        
-      ]
+        "members": [
+            {
+                "name": "Aakarsh Verma",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Aayush Tirmanwar",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Aditya Pande",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Akshata Katole",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Anas Khan",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Anish Pujari",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Aryan Varma",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Ayush Gote",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            }            
+        ]
     },
     {
-      "title": " Selected\n Members",
-      "tags": [],
-      "bgColorStyle": {
-        "background": "linear-gradient(135deg, #1f005c, #35005e, #5f0060, #8f0860, #bc365d, #dd635c, #f28c5f, #fcaa67, #ffb56b)"
-      },
-      "members": [
-        {
-          "name": "Ayush Pande",
-          "Section": "AIML",
-          "alt": "results",
-          "profilePic": "/code-breakers-logo.jpeg"
-},
-{
-  "name": "Aditya Kumar Singh",
-  "Section": "",
-  "alt": "results",
-  "profilePic": "/code-breakers-logo.jpeg"
-},
-{
-  "name": "Amit Kumar Thakur",
-  "Section": "",
-  "alt": "results",
-  "profilePic": "/code-breakers-logo.jpeg"
-},
-{
-          "name": "Harleen Bagga",
-          "Section": "",
-          "alt": "results",
-          "profilePic": "/code-breakers-logo.jpeg"
-},
-{
-          "name": "Suyog Parkhi",
-          "Section": "",
-          "alt": "results",
-          "profilePic": "/code-breakers-logo.jpeg"
-},
-{
-          "name": "Harsh Diwase",
-          "Section": "",
-          "alt": "results",
-          "profilePic": "/code-breakers-logo.jpeg"
- },
- {
-  "name": "Nachiket Jayant Deshpande",
-  "Section": "",
-  "alt": "results",
-  "profilePic": "/code-breakers-logo.jpeg"
-},
-{
-          "name": "Aditya Lodhi",
-          "Section": "",
-          "alt": "results",
-          "profilePic": "/code-breakers-logo.jpeg"
- },
- {
-  "name": "Mohammad Rushad Qureshi",
-  "Section": "",
-  "alt": "results",
-  "profilePic": "/code-breakers-logo.jpeg"
-},
-{
-  "name": "Ankit Pandey",
-  "Section": "",
-  "alt": "results",
-  "profilePic": "/code-breakers-logo.jpeg"
-}
-        
-      ]
-    }
-    ,
-    {
-      "title": " Selected\n Members",
-      "tags": [],
-      "bgColorStyle": {
-        "background": "linear-gradient(135deg, #1f005c, #35005e, #5f0060, #8f0860, #bc365d, #dd635c, #f28c5f, #fcaa67, #ffb56b)"
-      },
-      "members": [
-        {
-          "name" : "Naman Sarda",
-          "Section" : "",
-          "alt" : "results",
-          "profilePic" : "/code-breakers-logo.jpeg"
-      } ,
-      {
-          "name" : "Muskan Jaiswal",
-          "Section" : "",
-          "alt" : "results",
-          "profilePic" : "/code-breakers-logo.jpeg"
-      } ,
-      {
-          "name" : "Manas Bhardwaj",
-          "Section" : "",
-          "alt" : "results",
-          "profilePic" : "/code-breakers-logo.jpeg"
-      } ,
-      {
-          "name" : "Anish wairagade",
-          "Section" : "",
-          "alt" : "results",
-          "profilePic" : "/code-breakers-logo.jpeg"
-      } ,
-      {
-        "name": "Srishti Mangalam",
-        "Section": "",
-        "alt": "results",
-        "profilePic": "/code-breakers-logo.jpeg"
-      },
-{
-        "name": "Gargi Fand",
-        "Section": "",
-        "alt": "results",
-        "profilePic": "/code-breakers-logo.jpeg"
-      },
-      {
-              "name": "Aniruddh Shekdara",
-              "Section": "",
-              "alt": "results",
-              "profilePic": "/code-breakers-logo.jpeg"
+        "title": " Selected\n Members",
+        "tags": [],
+        "bgColorStyle": {
+            "background": "linear-gradient(135deg, #1f005c, #35005e, #5f0060, #8f0860, #bc365d, #dd635c, #f28c5f, #fcaa67, #ffb56b)"
+        },
+        "members": [
+            {
+                "name": "Chaitanya Zunzurkar",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
             },
             {
-                    "name": "Anirudh Pawar",
-                    "Section": "",
-                    "alt": "results",
-                    "profilePic": "/code-breakers-logo.jpeg"
-                  }
-                  ,
-                  {
-                          "name": "Yuvraj Zanwar",
-                          "Section": "",
-                          "alt": "results",
-                          "profilePic": "/code-breakers-logo.jpeg"
-                        }
-                        ,
-                        {
-                                "name": "Atharv Aloni",
-                                "Section": "",
-                                "alt": "results",
-                                "profilePic": "/code-breakers-logo.jpeg"
-                              }
-                              
-      
-      ]
-    }
-    ,
-    {
-      "title": " Selected\n Members",
-      "tags": [],
-      "bgColorStyle": {
-        "background": "linear-gradient(135deg, #1f005c, #35005e, #5f0060, #8f0860, #bc365d, #dd635c, #f28c5f, #fcaa67, #ffb56b)"
-      },
-      "members": [
-        {
-          "name" : "Harshita Khare",
-          "Section" : "",
-          "alt" : "results",
-          "profilePic" : "/code-breakers-logo.jpeg"
-      } ,
-      {
-          "name" : "Kushagra Singh",
-          "Section" : "",
-          "alt" : "results",
-          "profilePic" : "/code-breakers-logo.jpeg"
-      } ,
-      {
-          "name" : "Netal Sarda",
-          "Section" : "",
-          "alt" : "results",
-          "profilePic" : "/code-breakers-logo.jpeg"
-      } ,
-      {
-          "name" : "Nupur Hada",
-          "Section" : "",
-          "alt" : "results",
-          "profilePic" : "/code-breakers-logo.jpeg"
-      } ,
-      {
-        "name": "Pranjal Sadani",
-        "Section": "",
-        "alt": "results",
-        "profilePic": "/code-breakers-logo.jpeg"
-      },
-{
-        "name": "Pratham Maske",
-        "Section": "",
-        "alt": "results",
-        "profilePic": "/code-breakers-logo.jpeg"
-      },
-      {
-              "name": "Rohan Dhute",
-              "Section": "",
-              "alt": "results",
-              "profilePic": "/code-breakers-logo.jpeg"
+                "name": "Devansh Dua",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
             },
             {
-                    "name": "Rushabh Singhvi",
-                    "Section": "",
-                    "alt": "results",
-                    "profilePic": "/code-breakers-logo.jpeg"
-                  }
-                  ,
-                  {
-                          "name": "Shrinit Jichkar",
-                          "Section": "",
-                          "alt": "results",
-                          "profilePic": "/code-breakers-logo.jpeg"
-                        }
-                        ,
-                        {
-                                "name": "Siddhi Kothekar",
-                                "Section": "",
-                                "alt": "results",
-                                "profilePic": "/code-breakers-logo.jpeg"
-                              }
-                              
-      
-      ]
+                "name": "Divya Ruthiya",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Harshit Sahu",
+                "Section": "AIML",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Jay Gupta",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Jessica Sajwani",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Kartik Suchak",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Kshirin Modi",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            }            
+        ]
+    },
+    {
+        "title": " Selected\n Members",
+        "tags": [],
+        "bgColorStyle": {
+            "background": "linear-gradient(135deg, #1f005c, #35005e, #5f0060, #8f0860, #bc365d, #dd635c, #f28c5f, #fcaa67, #ffb56b)"
+        },
+        "members": [
+            {
+                "name": "Lavanya Chawla",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Mandar Gurjar",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Mohammad Adnan Dalal",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Musrat Khan",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Om Chilllure",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Palak Agrawal",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Palak Khanduri",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Prajakta Tiwari",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            }            
+        ]
+    },
+    {
+        "title": " Selected\n Members",
+        "tags": [],
+        "bgColorStyle": {
+            "background": "linear-gradient(135deg, #1f005c, #35005e, #5f0060, #8f0860, #bc365d, #dd635c, #f28c5f, #fcaa67, #ffb56b)"
+        },
+        "members": [
+            {
+                "name": "Ranveer Virkhare",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Rohan Keshkar",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Sakshi Mude",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Sarthak Gajbhiye",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Swananad Kulkarni",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Tejas Singh",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Tejas Tatode",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            },
+            {
+                "name": "Varada Kulkarni",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/code-breakers-logo.jpeg"
+            }
+        ]
     }
 ]
