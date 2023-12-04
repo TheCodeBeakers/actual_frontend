@@ -323,17 +323,17 @@ export default function Home(props) {
           <Container fluid>
             <Row className={styles.tileRow}>
               <Col xs="12" sm="6" md="3" className={styles.tileContainer}>
-                <Tile tileColor="blueBG" tileImage="1.jpeg" />
+                <Tile tileColor="#121149" tileImage="5.png" />
               </Col>
               <Col xs="12" sm="6" md="3" className={styles.tileContainer}>
-                <Tile tileColor="greenBG" tileImage="2.jpeg" />
+                <Tile tileColor="#29285b" tileImage="1.jpeg" />
               </Col>
               <Col xs="12" sm="6" md="3" className={styles.tileContainer}>
                 {/*TODO: Can pass required content for tiles as props */}
-                <Tile tileColor="purpleBG" tileImage="3.jpeg" />
+                <Tile tileColor="#41406d" tileImage="2.jpeg" />
               </Col>
               <Col xs="12" sm="6" md="3" className={styles.tileContainer}>
-                <Tile tileColor="redBG" tileImage="lumos.jpeg" />
+                <Tile tileColor="#59587f" tileImage="3.jpeg" />
               </Col>
             </Row>
           </Container>
