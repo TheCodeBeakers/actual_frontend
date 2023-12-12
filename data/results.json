@@ -7,6 +7,12 @@
         },
         "members": [
             {
+                "name": "Aakarsh Verma",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/AakarshVerma.jpg"
+            },
+            {
                 "name": "Aayush Tirmanwar",
                 "Section": "",
                 "alt": "results",
@@ -47,13 +53,7 @@
                 "Section": "",
                 "alt": "results",
                 "profilePic": "/code-breakers-logo.jpeg"
-            },
-            {
-                "name": "Aakarsh Verma",
-                "Section": "",
-                "alt": "results",
-                "profilePic": "/code-breakers-logo.jpeg"
-            }           
+            }         
         ]
     },
     {
@@ -88,6 +88,12 @@
                 "profilePic": "/profiles/results/HarshitSahu.jpg"
             },
             {
+                "name": "Isha Ahuja",
+                "Section": "",
+                "alt" : "results",
+                "profilePic" : "/profiles/results/IshaAhuja.jpg"
+            },
+            {
                 "name": "Kartik Suchak",
                 "Section": "",
                 "alt": "results",
@@ -100,23 +106,17 @@
                 "profilePic": "/profiles/results/KshirinModi.jpg"
             },
             {
+                "name": "Jessica Sajwani",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/JessicaSajwani.jpg"
+            },
+            {
                 "name": "Jay Gupta",
                 "Section": "",
                 "alt": "results",
                 "profilePic": "/code-breakers-logo.jpeg"
-            },
-            {
-                "name": "Jessica Sajwani",
-                "Section": "",
-                "alt": "results",
-                "profilePic": "/code-breakers-logo.jpeg"
-            },
-            {
-                "name": "Isha Ahuja",
-                "Section": "",
-                "alt" : "results",
-                "profilePic" : "/code-breakers-logo.jpeg"
-            }
+            }           
         ]
     },
     {
@@ -130,7 +130,7 @@
                 "name": "Lavanya Chawla",
                 "Section": "",
                 "alt": "results",
-                "profilePic": "/profiles/results/LavanyaChawla.jpg"
+                "profilePic": "/profiles/results/LavanyaChawla.jpeg"
             },
             {
                 "name": "Mandar Gurjar",
@@ -160,7 +160,7 @@
                 "name": "Palak Agrawal",
                 "Section": "",
                 "alt": "results",
-                "profilePic": "/code-breakers-logo.jpeg"
+                "profilePic": "/profiles/results/PalakAgrawal.jpeg"
             },
             {
                 "name": "Palak Khanduri",
