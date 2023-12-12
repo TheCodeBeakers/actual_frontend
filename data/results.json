@@ -88,12 +88,6 @@
                 "profilePic": "/profiles/results/HarshitSahu.jpg"
             },
             {
-                "name": "Isha Ahuja",
-                "Section": "",
-                "alt" : "results",
-                "profilePic" : "/profiles/results/IshaAhuja.jpg"
-            },
-            {
                 "name": "Kartik Suchak",
                 "Section": "",
                 "alt": "results",
@@ -116,7 +110,13 @@
                 "Section": "",
                 "alt": "results",
                 "profilePic": "/code-breakers-logo.jpeg"
-            }           
+            },
+            {
+                "name": "Isha Ahuja",
+                "Section": "",
+                "alt" : "results",
+                "profilePic" : "/code-breakers-logo.jpeg"
+            }
         ]
     },
     {
