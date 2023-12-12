@@ -349,7 +349,18 @@
           "linkedin": "https://www.linkedin.com/in/ikshit-talera-ab137725a/",
           "instagram": "https://www.instagram.com/ikshit_04/?next=%2F"
         }
-      },     
+      },   
+      {
+        "name": "Hariom Nabira",
+        "position": "Member",
+        "alt": "Hariom",
+        "profilePic": "/profiles/CP/Hariom.jpg",
+        "socials": {
+        
+          "linkedin": "https://www.linkedin.com/in/ikshit-talera-ab137725a/",
+          "instagram": "https://www.instagram.com/ikshit_04/?next=%2F"
+        }
+      }, 
       {
         "name": "Sanskar Wankhede",
         "position": "Member",
