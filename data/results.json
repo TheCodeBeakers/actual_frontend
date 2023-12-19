@@ -10,7 +10,10 @@
                 "name": "Aakarsh Verma",
                 "Section": "",
                 "alt": "results",
-                "profilePic": "/profiles/results/AakarshVerma.jpg"
+                "profilePic": "/profiles/results/AakarshVerma.jpg",
+                "socials": {
+                    "linkedin": "https://www.linkedin.com/in/"
+                }
             },
             {
                 "name": "Aayush Tirmanwar",
@@ -52,7 +55,7 @@
                 "name": "Ayush Gote",
                 "Section": "",
                 "alt": "results",
-                "profilePic": "/code-breakers-logo.jpeg"
+                "profilePic": "/profiles/results/AyushGote.JPG"
             }         
         ]
     },
@@ -88,6 +91,12 @@
                 "profilePic": "/profiles/results/HarshitSahu.jpg"
             },
             {
+                "name": "Isha Ahuja",
+                "Section": "",
+                "alt" : "results",
+                "profilePic" : "/profiles/results/IshaAhuja.jpg"
+            },
+            {
                 "name": "Kartik Suchak",
                 "Section": "",
                 "alt": "results",
@@ -110,13 +119,7 @@
                 "Section": "",
                 "alt": "results",
                 "profilePic": "/code-breakers-logo.jpeg"
-            },
-            {
-                "name": "Isha Ahuja",
-                "Section": "",
-                "alt" : "results",
-                "profilePic" : "/code-breakers-logo.jpeg"
-            }
+            }           
         ]
     },
     {
@@ -142,7 +145,7 @@
                 "name": "Mohammad Adnan Dalal",
                 "Section": "",
                 "alt": "results",
-                "profilePic": "/profiles/results/MohammadAdnanDalal.jpg"
+                "profilePic": "/profiles/results/AdnanDalal.jpg"
             },
             {
                 "name": "Musrat Khan",
@@ -166,7 +169,7 @@
                 "name": "Palak Khanduri",
                 "Section": "",
                 "alt": "results",
-                "profilePic": "/code-breakers-logo.jpeg"
+                "profilePic": "/profiles/results/PalakKhanduri.jpg"
             },
             {
                 "name": "Prajakta Tiwari",
@@ -183,6 +186,12 @@
             "background": "linear-gradient(135deg, #1f005c, #35005e, #5f0060, #8f0860, #bc365d, #dd635c, #f28c5f, #fcaa67, #ffb56b)"
         },
         "members": [
+            {
+                "name": "Ranveer Virkhare",
+                "Section": "",
+                "alt": "results",
+                "profilePic": "/profiles/results/RanveerVirkhare.jpeg"
+            },
             {
                 "name": "Rohan Keshkar",
                 "Section": "",
@@ -224,12 +233,6 @@
                 "Section": "",
                 "alt": "results",
                 "profilePic": "/profiles/results/VaradaKulkarni.jpg"
-            },
-            {
-                "name": "Ranveer Virkhare",
-                "Section": "",
-                "alt": "results",
-                "profilePic": "/code-breakers-logo.jpeg"
             }
         ]
     }
