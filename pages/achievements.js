@@ -95,7 +95,7 @@ export default function Meets(props) {
           </div>
         ) : (
           <div className={props.theme ? styles.header_light : styles.header}>
-            <h1>Our Achievemnts</h1>
+            <h1>Our Achievements</h1>
           </div>
         )}
         {/* <div className={props.theme ? styles.dropdownContainer_light : styles.dropdownContainer}>
